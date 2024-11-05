@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to be  SALESFORCE Admin and Developer 
 - 💞️ I’m looking to collaborate on Developer Projects 
 - 📫 How to reach me My LinkedIn profile https://www.linkedin.com/in/nandini-kommi/
-- 😄 Pronouns: She
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: I Don't Like doing code if it's not Hard enough!!!
 
 <!---
